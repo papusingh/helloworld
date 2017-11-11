@@ -1,1 +1,1 @@
-Hello world
+Show edit text in recyclereview android
